@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Thông tin cá nhân - Trương Khánh Linh</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #a1bdd8;
+      text-align: center;
+      padding: 20px;
+    }
+    .profile {
+      background: #c4dadf;
+      border-radius: 10px;
+      box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+      display: inline-block;
+      padding: 20px;
+      max-width: 400px;
+    }
+    .profile img {
+      width: 200px;
+      height: auto;
+      border-radius: 10px;
+      margin-bottom: 15px;
+    }
+    .profile h2 {
+      color: #333;
+    }
+    .profile p {
+      font-size: 16px;
+      margin: 5px 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="profile">
+    <img src="avatar.jpg" alt="Ảnh đại diện">
+    <h2>Trương Khánh Linh</h2>
+    <p><b>Giới tính:</b> Nữ</p>
+    <p><b>Quê quán:</b> Hà Nội</p>
+    <p><b>Ngày sinh:</b> 07/12/2005</p>
+    <p><b>Dân tộc:</b> Kinh</p>
+    <p><b>Nghề nghiệp:</b> Sinh viên</p>
+    <p><b>Email:</b> truongklinh08@gmail.com</p>
+  </div>
+</body>
+</htm
